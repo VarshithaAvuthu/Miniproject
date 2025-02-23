@@ -19,3 +19,5 @@ Name of the quiz is vocab quest
 4.Responsive & Interactive UI
 -Built using HTML, CSS, and JavaScript to ensure smooth navigation.
 -Responsive design for different devices.
+
+
